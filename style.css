@@ -195,6 +195,19 @@ a:link {
 }
 
 
+.heading {
+    font-family: "Pacifico" , sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0%;
+    color: #b8675c;
+}
+
+.contact {
+    font-family: Josefin Sans, sans-serif;
+}
+
+
 @media screen and (max-width: 768px){
 .container{
 	width: 80%;
